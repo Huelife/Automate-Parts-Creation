@@ -9,3 +9,4 @@ Begin automation:
 4) Install py -m pip install opencv-python
 5) Install py -m pip install openpyxl
 6) Install py -m pip install pyperclip
+7) Adjust the range values in the code to reflect the number of parts being created
